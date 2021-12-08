@@ -6,7 +6,7 @@ const fieldCharacter = '░';
 const pathCharacter = '*';
 
 
-//To play game user must make the first to make the hat and holes visibile
+//To play game user must make the first move to make the hat and holes visibile
 class Field {
   constructor(array2d){
     this._array2d = array2d;
